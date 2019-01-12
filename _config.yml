@@ -20,12 +20,8 @@ author:  # change following line to your infomation.
   email: jennytong@ufl.edu  # Leave blank if you don't have now
   # cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  # skill_icon1:
-  #   - name: icon-apache
-  #   - name: fa-linux
-  # skill_icon2:
-  #   - name: fa-linux
-  #   - name: icon-apache
+  skill_icon1:
+  skill_icon2:
   desc: 'Hi my name is Jenny! I am studying Computer Engineering at the University of Florida. I specialize in embedded systems, computer science, and software engineering, but I also have a lot of interest in machine learning and cross layered system security. My hobbies include rock climbing, playing the violin, PC gaming, and building PCs. My favorite games include Starcraft II and CS:GO.'  # Describe yourself.
 
 # comment
