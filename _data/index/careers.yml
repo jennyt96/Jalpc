@@ -4,13 +4,13 @@
     detail: Motorola Solutions
     i18n: company_a
   desc:
-    detail: |+
+    detail:
             •	Developed software to interface with hardware in the APX 8000 portable radio model
 
             •	Resolved watchdog defects and debugged software tools for the APX 8000
 
             •	Developed script to interface with hardware audio logs of the Si5000 body-worn camera
-            
+
             •	Delivered software based on the Agile principles and practiced unit testing
     i18n: company_a_desc
   date:
@@ -25,7 +25,14 @@
     detail: Texas Instruments
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail:
+            • Developed software to interface with hardware in the APX 8000 portable radio model
+
+            • Resolved watchdog defects and debugged software tools for the APX 8000
+
+            • Developed script to interface with hardware audio logs of the Si5000 body-worn camera
+            
+            • Delivered software based on the Agile principles and practiced unit testing
     i18n: company_b_desc
   date:
     detail: May 2018 - August 2018
