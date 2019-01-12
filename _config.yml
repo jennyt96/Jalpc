@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
   first_name: Hub  # Be used at index page about me section.
   last_name: Git  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/face.jpg  # upload your avatar at directory and edit it.
   github_username: jennyt96  # Leave blank if you don't have now
   linkedin_id: jarrekk # Leave blank if you don't have now
   email: jennytong@ufl.edu  # Leave blank if you don't have now
@@ -26,7 +26,10 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi my name is Jenny! I am currently studying Computer Engineering at the University of Florida. I specialize in embedded systems, computer science, and software engineering, but I also have a lot of interest in machine learning and cross layered system security.  # Describe yourself.
+  desc: |
+  Hi my name is Jenny! I am currently studying Computer Engineering at the University of Florida. I specialize in embedded systems, computer science, and software engineering, but I also have a lot of interest in machine learning and cross layered system security.  # Describe yourself.
+
+  My hobbies include rock climbing, playing the violin, PC gaming, and building PCs. My favorite games include Starcraft II and CS:GO.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
