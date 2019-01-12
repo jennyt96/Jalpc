@@ -4,7 +4,7 @@
     detail: Motorola Solutions
     i18n: company_a
   desc:
-    detail: |
+    detail: |+
             •	Developed software to interface with hardware in the APX 8000 portable radio model
             •	Resolved watchdog defects and debugged software tools for the APX 8000
             •	Developed script to interface with hardware audio logs of the Si5000 body-worn camera
@@ -22,7 +22,10 @@
     detail: Texas Instruments
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: |+
+            • Developed full stack configuration for code configuration tool
+            • Integrated TI graphical integration tool into RF driver applications
+            • Re-architected Wireless Sensor Network application for SimpleLink CC13x2 microcontroller launchpad
     i18n: company_b_desc
   date:
     detail: May 2018 - August 2018
